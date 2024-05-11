@@ -25,7 +25,7 @@ This project includes the following steps:
 To use this project:
 
 1. **Data Preparation**:
-   - Ensure the LFP data file (LFP_data.mat) is available in the project directory.
+   - Ensure the LFP data file (sessionData.mat) is available in the project directory.
 
 2. **Running the Code**:
    - Run the Python scripts corresponding to each step in the analysis process.
